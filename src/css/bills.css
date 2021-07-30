@@ -1,7 +1,7 @@
 .content {
   width: 100%;
-  margin-top: 76px; 
-  margin-left: 76px; 
+  margin-top: 76px;
+  margin-left: 76px;
   margin-right: 76px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .content-header {
-  width: 100%; 
+  width: 100%;
   display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
   display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
@@ -33,6 +33,13 @@
   line-height: 56px;
 }
 
+/*************************fix image format/
+.error{
+  color: red;
+  font-size: 0.8rem;
+  display: none;
+}
+/***********************/
 #btn-new-bill {
   width: 350px;
   height: 36px;
