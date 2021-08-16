@@ -34,13 +34,11 @@ export default class Login {
   handleSubmitAdmin = (e) => {
     const user = {
       type: "Admin",
-      //**************************************************************************
-      //email: e.target.querySelector(`input[data-testid="employee-email-input"]`).value,
-      //password: e.target.querySelector(`input[data-testid="employee-password-input"]`).value,
-      // status: "connected"
-      //**************************************************************************
-      //'employee' has been replaced by 'admin' in order to allow the user to access the dashboard
-      //**************************************************************************
+      /**
+       * WP005
+       * 'employee' has been replaced by 'admin' in order to allow the user to access the dashboard
+       */
+
       email: e.target.querySelector(`input[data-testid="admin-email-input"]`).value,
       password: e.target.querySelector(`input[data-testid="admin-password-input"]`).value,
       status: "connected"

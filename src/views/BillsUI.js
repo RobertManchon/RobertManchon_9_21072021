@@ -18,32 +18,29 @@ const row = (bill) => {
     </tr>
     `;
 }
-
+/** WIP04 */
 const rows = (data) => {
+
     /**
      * descending sort function
      * ex :
      * 2012 - 2013 = -1
      * 2012 - 2012 = 0
      * 2013 - 2012 = 1
-     * to sort in descending order
      */
     if (data && data.length) {
         data.sort(function (a, b) {
+            console.log(b.date);
             return new Date(b.date) - new Date(a.date);
+
         });
+
         return data.map(bill => row(bill)).join("");
     }
-
     return "";
 }
 
-export default ({
-    data: bills,
-    loading,
-    error
-}) => {
-
+export default ({data: bills, loading, error}) => {
     const modal = () => `
     <div class="modal fade" id="modaleFile" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
