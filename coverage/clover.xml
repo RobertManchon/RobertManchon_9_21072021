@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1629106738661" clover="3.2.0">
+  <project timestamp="1629106738661" name="All files">
+    <metrics statements="190" coveredstatements="184" conditionals="89" coveredconditionals="76" methods="49" coveredmethods="43" elements="328" coveredelements="303" complexity="0" loc="190" ncloc="190" packages="3" files="16" classes="16"/>
+    <package name="constants">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="routes.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\constants\routes.js">
+        <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="19" type="cond" truecount="5" falsecount="0"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+      </file>
+      <file name="usersTest.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\constants\usersTest.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers">
+      <metrics statements="149" coveredstatements="143" conditionals="54" coveredconditionals="41" methods="33" coveredmethods="27"/>
+      <file name="Bills.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\containers\Bills.js">
+        <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="Dashboard.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\containers\Dashboard.js">
+        <metrics statements="71" coveredstatements="65" conditionals="42" coveredconditionals="35" methods="20" coveredmethods="14"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="27" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="24" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="24" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="28" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="8" type="stmt"/>
+        <line num="53" count="7" type="stmt"/>
+        <line num="54" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="55" count="8" type="stmt"/>
+        <line num="59" count="7" type="stmt"/>
+        <line num="60" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="78" count="5" type="stmt"/>
+        <line num="79" count="5" type="stmt"/>
+        <line num="80" count="5" type="stmt"/>
+        <line num="86" count="5" type="stmt"/>
+        <line num="91" count="5" type="stmt"/>
+        <line num="92" count="5" type="stmt"/>
+        <line num="93" count="5" type="stmt"/>
+        <line num="94" count="5" type="stmt"/>
+        <line num="95" count="5" type="stmt"/>
+        <line num="101" count="5" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="109" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="114" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="115" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="116" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="117" count="2" type="stmt"/>
+        <line num="118" count="8" type="stmt"/>
+        <line num="122" count="2" type="stmt"/>
+        <line num="125" count="2" type="stmt"/>
+        <line num="126" count="2" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="140" count="2" type="stmt"/>
+        <line num="141" count="2" type="stmt"/>
+        <line num="142" count="2" type="stmt"/>
+        <line num="145" count="5" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="155" count="5" type="stmt"/>
+        <line num="156" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="162" count="1" type="stmt"/>
+        <line num="166" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="169" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="170" count="1" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="174" count="1" type="stmt"/>
+        <line num="176" count="3" type="stmt"/>
+        <line num="179" count="3" type="stmt"/>
+        <line num="180" count="3" type="stmt"/>
+        <line num="183" count="4" type="stmt"/>
+        <line num="184" count="16" type="stmt"/>
+        <line num="188" count="4" type="cond" truecount="5" falsecount="0"/>
+        <line num="189" count="1" type="stmt"/>
+        <line num="192" count="1" type="stmt"/>
+        <line num="197" count="4" type="stmt"/>
+      </file>
+      <file name="Login.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\containers\Login.js">
+        <metrics statements="30" coveredstatements="30" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+      </file>
+      <file name="Logout.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\containers\Logout.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="14" type="stmt"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="NewBill.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\containers\NewBill.js">
+        <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="views">
+      <metrics statements="33" coveredstatements="33" conditionals="30" coveredconditionals="30" methods="15" coveredmethods="15"/>
+      <file name="Actions.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\Actions.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="18" type="stmt"/>
+      </file>
+      <file name="BillsUI.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\BillsUI.js">
+        <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="31" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="15" type="stmt"/>
+        <line num="34" count="15" type="stmt"/>
+        <line num="38" count="16" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="44" count="13" type="stmt"/>
+        <line num="61" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="63" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="67" count="8" type="stmt"/>
+      </file>
+      <file name="DashboardFormUI.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\DashboardFormUI.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="26" count="9" type="stmt"/>
+      </file>
+      <file name="DashboardUI.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\DashboardUI.js">
+        <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="10" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+      </file>
+      <file name="ErrorPage.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\ErrorPage.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+      </file>
+      <file name="LoadingPage.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\LoadingPage.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="LoginUI.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\LoginUI.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="13" type="stmt"/>
+      </file>
+      <file name="NewBillUI.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\NewBillUI.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+      </file>
+      <file name="VerticalLayout.js" path="D:\Mes Projets\RobertManchon_9_21072021\src\views\VerticalLayout.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="7" count="35" type="stmt"/>
+        <line num="8" count="35" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="11" count="35" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="29" count="18" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
